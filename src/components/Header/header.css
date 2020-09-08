@@ -1,0 +1,17 @@
+.root-header{
+	display: flex;
+	background: #00acee;
+	align-items: center;
+	color:#fff;
+	padding: .2em 1em
+}
+.logo-img{
+	width: 35px;
+	height: auto;
+	padding: 5px;
+}
+.logo{
+	margin: 0;
+	color: #fff;
+	font-size: 14pt;
+}
